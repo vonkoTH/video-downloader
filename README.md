@@ -63,6 +63,7 @@ video-download [OPTIONS] URL
 
 3.  **Download a video using a cookies file:**
 
+-   **Tiktok:** usually has a login system; use cookies to bypass it. I recommend the [Get cookies.txt](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) LOCALLY extension, which can export the cookies from just one site instead of the entire browser.
     ```bash
     video-download --cookies /path/to/your/cookies.txt "https://www.some-website.com/video"
     ```
