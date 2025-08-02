@@ -52,13 +52,13 @@ video-download [OPTIONS] URL
 1.  **Download a video to your Downloads folder:**
 
     ```bash
-    video-download "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    video-download "https://www.youtube.com/watch?v=DuDX6wNfjqc&list=RDDuDX6wNfjqc"
     ```
 
 2.  **Download audio only to a specific folder:**
 
     ```bash
-    video-download --format audio --output /path/to/your/music "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    video-download --format audio --output /path/to/your/music "https://www.youtube.com/watch?v=DuDX6wNfjqc&list=RDDuDX6wNfjqc"
     ```
 
 3.  **Download a video using a cookies file:**
