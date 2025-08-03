@@ -1,4 +1,4 @@
-# video-download
+<h1 align="center">video-downloader</h1>
 
 A CLI tool to download video and audio from various web sources, built with Python and yt-dlp.
 
