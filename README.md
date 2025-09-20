@@ -27,7 +27,7 @@ The tool is powered by `yt-dlp` and features a real-time progress bar.
 It is recommended to install the tool using `pipx` to avoid dependency conflicts:
 
 ```bash
-pipx install git+https://github.com/lordvonko/video-downloader.git
+pipx install git+https://github.com/vonkoTH/video-downloader.git
 ```
 
 ## Usage
